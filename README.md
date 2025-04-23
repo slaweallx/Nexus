@@ -1,7 +1,7 @@
 # Nexus
 Nexus Cotonti Theme
 
-Author: [Ali Çömez | Slaweally](https://github.com/slaweallx)
+Author: [Ali Çömez | Slaweally](https://github.com/slaweallx)  
 Theme page: https://www.cotonti.com/themes/nexus
 
 ## Install
