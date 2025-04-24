@@ -34,6 +34,14 @@
                     {USERS_AUTH_REMEMBER} 
                     <label for="rmember">{PHP.L.users_rememberme}</label>
                 </div>
+
+                <!-- Cloudflare Turnstile Captcha -->
+                <!-- IF {USERS_AUTH_VERIFY_IMG} -->
+                <div class="form-group textcenter">
+                    {USERS_AUTH_VERIFY_IMG}
+                    {USERS_AUTH_VERIFY_INPUT}
+                </div>
+                <!-- ENDIF -->
                 
                 <div class="form-actions">
                     <button type="submit" name="rlogin" value="0" class="button">
