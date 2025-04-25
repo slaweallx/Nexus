@@ -106,7 +106,7 @@
                     </div>
                     
                     <!-- İçerik Editörü -->
-                    <div class="form-row editor-row">
+                    <div class="container">
                         <div class="form-editor">
                             {PAGEEDIT_FORM_TEXT}
                             <div class="editor-tools">
