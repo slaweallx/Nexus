@@ -103,7 +103,7 @@
     .user-toggle {
         display: flex;
         align-items: center;
-        background: none;
+        background: black;
         border: none;
         cursor: pointer;
         padding: 5px;
